@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/../src/libs/liba.h
+
+/home/maike/Github/AVR_PROJECT_TEMPLATE/app/main.c
+avr/io.h
+-
+util/delay.h
+-
+liba.h
+-
+

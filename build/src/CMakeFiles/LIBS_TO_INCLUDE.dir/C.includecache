@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/liba.c
+liba.h
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/liba.h
+
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/liba.h
+
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/libb.c
+libb.h
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/libb.h
+
+/home/maike/Github/AVR_PROJECT_TEMPLATE/src/libs/libb.h
+

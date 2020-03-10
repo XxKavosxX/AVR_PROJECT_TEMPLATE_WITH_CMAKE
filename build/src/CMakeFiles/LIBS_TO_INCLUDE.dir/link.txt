@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIBS_TO_INCLUDE.a  CMakeFiles/LIBS_TO_INCLUDE.dir/libs/liba.c.o CMakeFiles/LIBS_TO_INCLUDE.dir/libs/libb.c.o
+/usr/bin/ranlib libLIBS_TO_INCLUDE.a

@@ -1,0 +1,15 @@
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/CMakeFiles/rebuild_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/CMakeFiles/edit_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/src/CMakeFiles/rebuild_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/src/CMakeFiles/LIBS_TO_INCLUDE.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/src/CMakeFiles/edit_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/firmwaresize_MAIN.awk.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/MAIN.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/edit_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/MAIN.elf.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/size.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/upload_eeprom.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/upload.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/get_status_MAIN.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/rebuild_cache.dir
+/home/maike/Github/AVR_PROJECT_TEMPLATE/build/app/CMakeFiles/disassemble.dir

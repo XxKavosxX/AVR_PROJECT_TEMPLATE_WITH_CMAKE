@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libLIBS_TO_INCLUDE.a"
+)
